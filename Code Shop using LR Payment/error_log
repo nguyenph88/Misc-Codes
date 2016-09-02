@@ -1,0 +1,37 @@
+[12-Feb-2011 19:09:14] PHP Notice:  Undefined variable: baishit in /home/cardbinh/public_html/status.php on line 29
+[12-Feb-2011 19:10:00] PHP Notice:  Undefined variable: baishit in /home/cardbinh/public_html/status.php on line 29
+[12-Feb-2011 19:10:17] PHP Notice:  Undefined index:  card_id in /home/cardbinh/public_html/update_info.php on line 10
+[12-Feb-2011 19:10:17] PHP Notice:  Undefined index:  quantity in /home/cardbinh/public_html/update_info.php on line 11
+[12-Feb-2011 19:10:17] PHP Notice:  Undefined index:  time in /home/cardbinh/public_html/update_info.php on line 12
+[12-Feb-2011 19:10:17] PHP Notice:  Undefined index:  uid in /home/cardbinh/public_html/update_info.php on line 13
+[12-Feb-2011 19:10:17] PHP Notice:  Undefined index:  username in /home/cardbinh/public_html/update_info.php on line 14
+[12-Feb-2011 19:10:23] PHP Notice:  Undefined index:  card_id in /home/cardbinh/public_html/update_info.php on line 10
+[12-Feb-2011 19:10:23] PHP Notice:  Undefined index:  quantity in /home/cardbinh/public_html/update_info.php on line 11
+[12-Feb-2011 19:10:23] PHP Notice:  Undefined index:  time in /home/cardbinh/public_html/update_info.php on line 12
+[12-Feb-2011 19:10:23] PHP Notice:  Undefined index:  uid in /home/cardbinh/public_html/update_info.php on line 13
+[12-Feb-2011 19:10:23] PHP Notice:  Undefined index:  username in /home/cardbinh/public_html/update_info.php on line 14
+[12-Feb-2011 19:10:25] PHP Notice:  Undefined index:  card_id in /home/cardbinh/public_html/update_info.php on line 10
+[12-Feb-2011 19:10:25] PHP Notice:  Undefined index:  quantity in /home/cardbinh/public_html/update_info.php on line 11
+[12-Feb-2011 19:10:25] PHP Notice:  Undefined index:  time in /home/cardbinh/public_html/update_info.php on line 12
+[12-Feb-2011 19:10:25] PHP Notice:  Undefined index:  uid in /home/cardbinh/public_html/update_info.php on line 13
+[12-Feb-2011 19:10:25] PHP Notice:  Undefined index:  username in /home/cardbinh/public_html/update_info.php on line 14
+[12-Feb-2011 19:10:41] PHP Notice:  Use of undefined constant SITE_URL - assumed 'SITE_URL' in /home/cardbinh/public_html/template/header.tpl.php on line 3
+[12-Feb-2011 19:10:41] PHP Notice:  Undefined property: Savant3::$isLoggedIn in /home/cardbinh/public_html/template/sidebar.tpl.php on line 5
+[12-Feb-2011 19:10:41] PHP Notice:  Undefined index:  card in /home/cardbinh/public_html/card.php on line 25
+[12-Feb-2011 19:10:44] PHP Notice:  Use of undefined constant SITE_URL - assumed 'SITE_URL' in /home/cardbinh/public_html/template/header.tpl.php on line 3
+[12-Feb-2011 19:10:44] PHP Notice:  Undefined property: Savant3::$isLoggedIn in /home/cardbinh/public_html/template/sidebar.tpl.php on line 5
+[12-Feb-2011 19:10:44] PHP Notice:  Undefined index:  card in /home/cardbinh/public_html/card.php on line 25
+[12-Feb-2011 19:10:50] PHP Notice:  Use of undefined constant SITE_URL - assumed 'SITE_URL' in /home/cardbinh/public_html/template/header.tpl.php on line 3
+[12-Feb-2011 19:10:50] PHP Notice:  Undefined property: Savant3::$isLoggedIn in /home/cardbinh/public_html/template/sidebar.tpl.php on line 5
+[12-Feb-2011 19:10:50] PHP Notice:  Undefined index:  card in /home/cardbinh/public_html/card.php on line 25
+[12-Feb-2011 20:45:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(/tmp/sess_be341ddd12367e70f1b9e00616a40c5c, O_RDWR) failed: Permission denied (13) in /home/cardbinh/public_html/index.php on line 9
+[12-Feb-2011 20:45:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cardbinh/public_html/index.php:9) in /home/cardbinh/public_html/index.php on line 9
+[12-Feb-2011 20:45:38] PHP Warning:  Unknown: open(/tmp/sess_be341ddd12367e70f1b9e00616a40c5c, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[12-Feb-2011 20:45:38] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[12-Feb-2011 20:45:39] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(/tmp/sess_be341ddd12367e70f1b9e00616a40c5c, O_RDWR) failed: Permission denied (13) in /home/cardbinh/public_html/captcha.php on line 2
+[12-Feb-2011 20:45:39] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cardbinh/public_html/captcha.php:2) in /home/cardbinh/public_html/captcha.php on line 2
+[12-Feb-2011 20:45:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cardbinh/public_html/captcha.php:2) in /home/cardbinh/public_html/captcha.php on line 19
+[12-Feb-2011 20:45:39] PHP Warning:  Unknown: open(/tmp/sess_be341ddd12367e70f1b9e00616a40c5c, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[12-Feb-2011 20:45:39] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[13-Feb-2011 05:17:38] PHP Notice:  Undefined variable: baishit in /home/cardbinh/public_html/status.php on line 29
+[13-Feb-2011 05:29:19] PHP Notice:  Undefined variable: baishit in /home/cardbinh/public_html/status.php on line 29

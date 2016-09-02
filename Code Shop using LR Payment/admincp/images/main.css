@@ -1,0 +1,111 @@
+/*
+ * Ext JS Library 2.2
+ * Copyright(c) 2006-2008, Ext JS, LLC.
+ * licensing@extjs.com
+ * 
+ * http://extjs.com/license
+ */
+
+/*===================================
+/*   Basic page styles
+/*===================================*/
+body {
+    font-family:tahoma,arial,sans-serif;
+    font-size:11px;
+}
+a {
+    color:#15428B;
+}
+a:link, a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.wrapper {
+	width: 960px;
+	text-align: justify;
+}
+#header {
+    background: #7F99BE url(layout-browser-hd-bg.gif) repeat-x center;
+}
+#header h1 {
+    font-size: 16px;
+    color: #fff;
+    font-weight: normal;
+    padding: 5px 10px;
+}
+
+#header h1 a {
+    color:#FFF;
+}
+
+.lf {
+	float: left;
+}
+
+.rf {
+	float: right;
+}
+
+.clear {
+	clear: both;
+}
+
+#sidebar {
+	width: 200px;
+	float: left;
+}
+
+#sidebar ul {
+	list-style-type: none;
+	list-style-image: url(bullet.gif);
+}
+
+#sidebar li {
+	height: 16px;
+	margin-left: -10px;
+	padding-left: 0;
+}
+
+.box {
+	border-left: 1px solid #84a0c4;
+	border-right: 1px solid #84a0c4;
+	border-bottom: 1px solid #84a0c4;
+	margin-bottom: 5px;
+}
+
+.box h3{
+    background: #7F99BE url(white-top-bottom.gif) repeat-x top;
+	height: 20px;
+	padding: 5px 0 0 5px;
+	margin: 0;
+}
+
+.box p {
+	padding: 0 10px;
+}
+
+.box input {
+	margin: 3px;
+}
+
+#main {
+	width: 750px;
+	float: right;
+}
+
+.card tr td {
+	border: 1px solid #666;
+	-moz-border-radius: 5px;
+	padding: 3px;
+}
+
+.card tr td  input{
+	width: 60px;
+}
+
+#tblCart {
+	margin-left: 10px;
+}
